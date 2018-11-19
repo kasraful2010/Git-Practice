@@ -1,4 +1,4 @@
-package Basic_Java.Q4;
+package Basic_Java.Misc;
 
 import java.util.Scanner;
 
