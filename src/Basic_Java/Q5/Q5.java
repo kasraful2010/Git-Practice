@@ -1,5 +1,7 @@
 package Basic_Java.Q5;
 
+import java.util.Scanner;
+
 public class Q5 {
     public static void main(String[] args) {
 
@@ -12,8 +14,14 @@ public class Q5 {
          * 25 x 5 = 125
           */
 
-       int x= 25 ;
-       int Y= 5;
-       System.out.println(x*Y);
+        Scanner sc = new Scanner (System.in);
+
+        System.out.print("Enter value 1: ");
+        int num = sc.nextInt();
+
+        System.out.print("Enter value 2: ");
+        int num1 = sc.nextInt();
+
+        System.out.println("Total: "+ (num * num1));
     }
 }
