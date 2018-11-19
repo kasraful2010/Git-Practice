@@ -1,4 +1,4 @@
-package Basic_Java.Q4;
+package Basic_Java.Q6;
 import java.util.Scanner;
 public class Q6 {
     public static void main(String[] args) {

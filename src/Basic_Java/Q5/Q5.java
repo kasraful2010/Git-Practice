@@ -1,4 +1,4 @@
-package Basic_Java.Q4;
+package Basic_Java.Q5;
 
 public class Q5 {
     public static void main(String[] args) {
